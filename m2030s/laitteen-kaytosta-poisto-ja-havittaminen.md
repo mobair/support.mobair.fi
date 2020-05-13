@@ -3,7 +3,9 @@ layout: default
 title: Laitteen käytöstä poisto ja hävittäminen
 nav_order: 8
 lang: fi
+lang_order: 1
 ref: weee
+product: m2030s
 ---
 
 ## Käytöstä poistettujen sähkö- ja elektroniikkalaitteiden hävittäminen (koskee Euroopan yhteisön ja muiden Euroopan maiden jätehuoltoa)

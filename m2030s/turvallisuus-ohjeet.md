@@ -3,7 +3,9 @@ layout: default
 title: Turvallisuus-ohjeet
 nav_order: 2
 lang: fi
+lang_order: 1
 ref: safety
+product: m2030s
 ---
 
 # Turvallisuus-ohjeet

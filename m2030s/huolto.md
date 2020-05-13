@@ -3,7 +3,9 @@ layout: default
 title: Huolto
 nav_order: 5
 lang: fi
+lang_order: 1
 ref: maintenance
+product: m2030s
 ---
 
 # Huolto

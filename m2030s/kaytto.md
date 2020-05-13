@@ -3,7 +3,9 @@ layout: default
 title: Käyttö
 nav_order: 4
 lang: fi
+lang_order: 1
 ref: opreation
+product: m2030s
 ---
 
 # Käyttö
@@ -16,17 +18,43 @@ Jos mukana tulevaa äänenvaimenninta käytetään, tulee se sijoittaa ulkoilmap
 
 Jos ilmavirtaa rajoitetaan erityisesti lisäämällä pienempi osa putkeen, tulee varmistaa että alipaine tilassa ei kasva liian suureksi.
 
-1. Säätötapeilla säädetään laitteen etäisyys seinästä, vakioasetus 15 mm
 
-2. Ulkoilmaputki: Ø103 × 370 mm
-3. Suodatin asennetaan ulkoilmaputken sisälle, ohuempi kärki ulkoilmaa kohden
+![alt text](/assets/images/use-a-320x240.jpg "Logo Title Text 1")
+{: .mb-1 }
 
-4. Ulkoilmaputken sisälle asennettava äänenvaimennin
-5. Ilmamäärää rajoittava lisäosa
+**1.** Säätötapeilla säädetään laitteen etäisyys seinästä, vakioasetus 15 mm
 
-6. Laitteen kiinnitystarvikkeet
-7. Ulkosäleikön kiinnitystarvikkeet
+![alt text](/assets/images/use-b-320x240.jpg "Logo Title Text 1")
+{: .mb-1 }
+
+**2.** Ulkoilmaputki: Ø103 × 370 mm  
+**3.** Suodatin asennetaan ulkoilmaputken sisälle, ohuempi kärki ulkoilmaa kohden
+
+![alt text](/assets/images/use-c-320x240.jpg "Logo Title Text 1")
+{: .mb-1 }
+
+**4.** Ulkoilmaputken sisälle asennettava äänenvaimennin  
+**5.** Ilmamäärää rajoittava lisäosa
+
+![alt text](/assets/images/use-d-320x240.jpg "Logo Title Text 1")
+{: .mb-1 }
+
+**6.** Laitteen kiinnitystarvikkeet  
+**7.** Ulkosäleikön kiinnitystarvikkeet
+
+![Kuva pakkaussisällöstä](/assets/images/use-e-427x240.jpg)
+{: .mb-1 }
 
 Pakkauksen mukana tulevat asennustarvikkeet
 
-Kiinnitysruuvi asennetaan hiukan vinusto ylöspäin, kanta n. 20 mm irti seinästä
+![Kuva kiinnitysruuvista asennusvaiheessa](/assets/images/use-f-427x240.jpg)
+{: .mb-1 }
+
+Kiinnitysruuvi asennetaan hiukan vinosti ylöspäin, kanta n. 20 mm irti seinästä
+
+![alt text](/assets/images/draught-notice.jpg)
+{: .mt-6 .mb-1 }
+
+<i data-feather="alert-triangle" class="v-align-text-bottom"></i>
+Mikäli puhallussuihkun edessä on este, esim. verholauta, saattaa esiintyä vedon tunnetta
+

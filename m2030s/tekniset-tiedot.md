@@ -3,7 +3,9 @@ layout: default
 title: Tekniset tiedot
 nav_order: 6
 lang: fi
+lang_order: 1
 ref: technical
+product: m2030s
 ---
 
 # Tekniset tiedot

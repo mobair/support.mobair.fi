@@ -3,7 +3,9 @@ layout: default
 title: Suodattimet ja lisävarusteet
 nav_order: 7
 lang: fi
+lang_order: 1
 ref: accessories
+product: m2030s
 ---
 
 # Suodattimet ja lisävarusteet
