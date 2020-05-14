@@ -13,7 +13,7 @@ product: m2030s
 
 # Mobair 2030S Användarhandbok
 
-Lue nämä käyttöohjeet ja “Turvallisuus-ohjeet” huolellisesti, ennen kuin alat käyttää laitetta.
+Tack för att du har valt denna produkt från Mobair. Innan du använder apparaten bör du läsa igenom den här bruksanvisningen och “Säkerhetsinformation” noga och spara den för framtida bruk.
 
 ## Identifieringsetikettens placering
-Mallinumerotiedot, erä- tai sarjanumero ja jännitemerkintä sijaitsevat laitteen kyljessä tai pakkauksessa.
+Etiketter för modellnr, serienummer och strömförsörjning finns på apparaten eller förpackningens baksida.

@@ -12,8 +12,7 @@ product: m2030s
 ---
 
 # Mobair 2030S Owner's Manual
+Before operating the unit, please read this manual and “Safety information” thoroughly and retain it for future reference.
 
-Lue nämä käyttöohjeet ja “Turvallisuus-ohjeet” huolellisesti, ennen kuin alat käyttää laitetta.
-
-## Identifieringsetikettens placering
-Mallinumerotiedot, erä- tai sarjanumero ja jännitemerkintä sijaitsevat laitteen kyljessä tai pakkauksessa.
+## Location of the identification label
+Labels for the Product Model No., Serial No. and rating are located on the side of the unit and/or package.

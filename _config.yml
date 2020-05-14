@@ -42,6 +42,15 @@ aux_links: nil
 
 footer_content: "Copyright &copy; 2020 Mobair Oy"
 
+# translations
+t:
+  fi:
+    search:  "Haku"
+  sv:
+    search:  "Sök"
+  en:
+    search:  "Search"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

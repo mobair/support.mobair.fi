@@ -6,12 +6,14 @@ layout: default
 title: Käyttöohjeet
 nav_order: 1
 lang: fi
+lang_order: 1
 ref: root-index
 nav_exclude: true
 ---
 
-### [Mobair 2010 Korvausilmalate](/m2010)
-### [Mobair 2015 Korvausilmalate](/m2015)
-### [Mobair 2030S Korvausilmalate](/m2030s)
-### [Mobair 2080 Korvausilmalate](/m2080)
-### [Mobair 4100 Lämmönsiirtopuhallin](/m4100)
+## Käyttöohjeet
+* [Mobair 2010](/m2010)
+* [Mobair 2015](/m2015)
+* [Mobair 2030S](/m2030s)
+* [Mobair 2080](/m2080)
+* [Mobair 4100](/m4100)

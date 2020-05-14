@@ -2,22 +2,22 @@
 layout: default
 title: Installation
 nav_order: 3
-lang: sv
 lang_order: 2
+lang: sv
 ref: installation
 product: m2030s
 ---
 
-# Asennus
+# Installation
 
-<p><img src="/assets/images/pic01.png" width="420px" /></p>
+![alt text](/assets/images/pic01a.jpg "Logo Title Text 1")
 
-Laite asennetaan makuuhuoneeseen tai muuhun kuivaan tilaan. Laite sijoitetaan ulkoseinälle huoneen yläosaan, laitteen yläreunan etäisyys katosta min. 200 mm. Sähköliitäntä pistorasiaan pistokemuuntajalla ja 1,3 m pitkällä virtajohdolla (7,5 m jatkojohto). Johdon voi sijoittaa koristelistan taakse koska käyttöjännite on 8,5 V DC.
+Ventilen installeras i sovrummet eller annat torrt utrymme. Ventilen placeras på ytterväggen i rummets övre del, ventilens överkants avstånd från taket min. 200 mm. Elanslutning till kontaktdosan med en 1,3 m lång sladd (7,5 m skarvsladd). Sladden kan placeras bakom en list eftersom driftsspänningen är 8,5 V DC.
 
-<p><img src="/assets/images/pic02.png" width="420px" /></p>
+![alt text](/assets/images/pic02a.jpg "Logo Title Text 1")
 
-Ulkoseinään laitteen sijoituspaikan keskelle tehdään ∅110 mm reikä. Reikään asennetaan laitteen mukana tuleva ∅103 mm muoviputki, hiukan ulospäin viettäväksi. Putki tiivistetään seinärakenteeseen. Putkenpään tulee jäädä seinäpinnan tasoon.
+I ytterväggen mitt i där ventilen placeras görs ett Ø110 mm hål. I hålet placeras plaströret Ø103 mm, som ingår i leveransen, med en liten lutning utåt ner. Röret tätas mot väggen. Ändan av röret skall komma i nivå med väggytan.
 
-<p><img src="/assets/images/pic03.png" width="420px" /></p>
+![alt text](/assets/images/pic03a.jpg "Logo Title Text 1")
 
-Ulkopuolelle asennetaan laitteen mukana tuleva ulkosäleikkö. Hyönteisverkko on vapaaehtoinen. Mikäli käytetään olemassa olevaa ulkoilma-aukkoa, tulee aukkoon sovittaa laitteen mukana tuleva ulkoilmaputki jotta suodatin sopii siihen.
+Utanför installeras med ventilen kommande yttergaller. Insektnätet är valfritt. Om en redan existerande uteluftsöppning används bör, med ventilen kommande uteluftsröret, anpassas i öppningen så att filter passar i den.

@@ -12,7 +12,7 @@ product: m2030s
 
 | Nimi                          | Tuotekoodi    |
 | ----------------------------- | ------------- |
-| Pussisuodatin (M5 / ePM10 60% | S2040         |
+| Pussisuodatin (M5 / ePM10 60%)| S2040         |
 | Äänenvaimennin                | AV2000        |
 
 Mobair korvausilmalaitteet on suunniteltu toimimaan alkuperäisten, virtausominaisuuksiltaan testattujen Mobair suodattimien kanssa yhteensopiviksi. Alkuperäisten Mobair vaihtosuodattimien jälleenmyyjien yhteystiedot: [mobair.fi/jalleenmyyjat](https://mobair.fi/jalleenmyyjat)

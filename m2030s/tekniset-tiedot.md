@@ -15,7 +15,7 @@ product: m2030s
 | Tehonkulutus          | 1,0 W                                 |
 | Äänitaso              | 27 dB(A)                              |
 | Suodatusluokka        | M5 / ePM10 60%                        |
-| Sähköliitäntä         | Pistokemuuntaja 8,5 V DC, 1,3 m virtajohto (7,5 m jatkojohto  |
+| Sähköliitäntä         | Pistokemuuntaja 8,5 V DC, 1,3 m virtajohto (7,5 m jatkojohto)  |
 | Tuotekoodi            | M2030S                                |
 | LVI-numero            | 7929033                               |
 

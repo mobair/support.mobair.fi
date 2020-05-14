@@ -10,9 +10,7 @@ product: m2030s
 
 # Käyttö
 
-Jotta laite voi lämmittää ulkoa tulevan ilman, tulee sen olla n. 15 mm irti seinästä takana olevien säätötappien avulla. Puhaltimen ollessa päällä venttiilin ja seinän välistä virtaa laitteen sisään lämmintä huoneilmaa lämmittämään ulkoa tulevaa ilmaa.
-
-Laite voi olla aina päällä, sähköteho on vain 1,0 W.
+Jotta laite voi lämmittää ulkoa tulevan ilman, tulee sen olla n. 15 mm irti seinästä takana olevien säätötappien avulla. Puhaltimen ollessa päällä venttiilin ja seinän välistä virtaa laitteen sisään lämmintä huoneilmaa lämmittämään ulkoa tulevaa ilmaa. Laite voi olla aina päällä, sähköteho on vain 1,0 W.
 
 Jos mukana tulevaa äänenvaimenninta käytetään, tulee se sijoittaa ulkoilmaputkeen viimeisenä suodattimen taakse. Tarpeen vaatiessa äänenvaimentimen pituutta voi leikkaamalla lyhentää.
 

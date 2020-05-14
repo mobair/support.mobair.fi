@@ -8,6 +8,6 @@ ref: about
 product: m2030s
 ---
 
-Alkuperäiset ohjeet.
+Alkuperäiset ohjeet
 
 K4GB69M7V2
