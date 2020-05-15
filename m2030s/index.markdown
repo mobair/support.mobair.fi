@@ -17,3 +17,4 @@ Lue nämä käyttöohjeet ja “Turvallisuus-ohjeet” huolellisesti, ennen kuin
 
 ## Tunnistemerkintöjen sijainti
 Mallinumerotiedot, erä- tai sarjanumero ja jännitemerkintä sijaitsevat laitteen kyljessä tai pakkauksessa.
+{: .mb-8 }
