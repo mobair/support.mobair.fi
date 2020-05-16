@@ -5,7 +5,7 @@
 layout: default
 title: Johdanto
 nav_order: 1
-lang: fi
+lang: fi_FI
 lang_order: 1
 ref: index
 product: m2030s

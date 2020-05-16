@@ -3,7 +3,7 @@ layout: default
 title: Asennus
 nav_order: 3
 lang_order: 1
-lang: fi
+lang: fi_FI
 ref: installation
 product: m2030s
 ---

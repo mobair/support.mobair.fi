@@ -2,7 +2,7 @@
 layout: default
 title: Användning
 nav_order: 4
-lang: sv
+lang: sv_FI
 lang_order: 2
 ref: opreation
 product: m2030s

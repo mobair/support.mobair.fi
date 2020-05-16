@@ -2,7 +2,7 @@
 layout: default
 title: Disposal of the product
 nav_order: 8
-lang: en
+lang: en_FI
 lang_order: 3
 ref: weee
 product: m2030s

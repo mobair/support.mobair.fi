@@ -5,7 +5,7 @@
 layout: default
 title: Manuals
 nav_order: 1
-lang: en
+lang: en_FI
 lang_order: 3
 ref: root-index
 nav_exclude: true

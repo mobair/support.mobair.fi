@@ -5,7 +5,7 @@
 layout: default
 title: Inledning
 nav_order: 1
-lang: sv
+lang: sv_FI
 lang_order: 2
 ref: index
 product: m2030s

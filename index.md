@@ -5,7 +5,7 @@
 layout: default
 title: Käyttöohjeet
 nav_order: 1
-lang: fi
+lang: fi_FI
 lang_order: 1
 ref: root-index
 nav_exclude: true

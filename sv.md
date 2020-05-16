@@ -5,7 +5,7 @@
 layout: default
 title: Användarmanualer
 nav_order: 1
-lang: sv
+lang: sv_FI
 lang_order: 2
 ref: root-index
 nav_exclude: true

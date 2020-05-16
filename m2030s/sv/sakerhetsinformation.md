@@ -2,7 +2,7 @@
 layout: default
 title: Säkerhetsinformation
 nav_order: 2
-lang: sv
+lang: sv_FI
 lang_order: 2
 ref: safety
 product: m2030s

@@ -2,7 +2,7 @@
 layout: default
 title: Käyttö
 nav_order: 4
-lang: fi
+lang: fi_FI
 lang_order: 1
 ref: opreation
 product: m2030s

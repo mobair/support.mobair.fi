@@ -2,7 +2,7 @@
 layout: default
 title: Teknisk information
 nav_order: 6
-lang: sv
+lang: sv_FI
 lang_order: 2
 ref: technical
 product: m2030s

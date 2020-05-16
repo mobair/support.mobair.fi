@@ -2,7 +2,7 @@
 layout: default
 title: Operation
 nav_order: 4
-lang: en
+lang: en_FI
 lang_order: 3
 ref: opreation
 product: m2030s

@@ -2,7 +2,7 @@
 layout: default
 title: Laitteen käytöstä poisto ja hävittäminen
 nav_order: 8
-lang: fi
+lang: fi_FI
 lang_order: 1
 ref: weee
 product: m2030s

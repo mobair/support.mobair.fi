@@ -2,7 +2,7 @@
 layout: default
 title: Safety information
 nav_order: 2
-lang: en
+lang: en_FI
 lang_order: 3
 ref: safety
 product: m2030s

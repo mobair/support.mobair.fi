@@ -5,7 +5,7 @@
 layout: default
 title: Introduction
 nav_order: 1
-lang: en
+lang: en_FI
 lang_order: 3
 ref: index
 product: m2030s

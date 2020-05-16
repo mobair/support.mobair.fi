@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/logo.svg"
@@ -38,17 +39,17 @@ footer_content: "Copyright &copy; 2020 Mobair Oy"
 
 # translations
 t:
-  fi:
+  fi_FI:
     search:  "Haku"
     title:   "Mobair Tuki"
     menu-off:  "Valikko"
     menu-on:   "Piilota"
-  sv:
+  sv_FI:
     search:  "Sök"
     title:   "Mobair Support"
     menu-off:  "Meny"
     menu-on:   "Dölj"
-  en:
+  en_FI:
     search:  "Search"
     title:   "Mobair Support"
     menu-off:  "Menu"

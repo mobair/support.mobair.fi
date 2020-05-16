@@ -2,7 +2,7 @@
 layout: default
 title: Filter och tillbehör
 nav_order: 7
-lang: sv
+lang: sv_FI
 lang_order: 2
 ref: accessories
 product: m2030s

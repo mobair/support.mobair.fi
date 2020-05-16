@@ -3,7 +3,7 @@ layout: default
 title: Installation
 nav_order: 3
 lang_order: 2
-lang: sv
+lang: sv_FI
 ref: installation
 product: m2030s
 ---

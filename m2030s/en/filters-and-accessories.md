@@ -2,7 +2,7 @@
 layout: default
 title: Filters and accessories
 nav_order: 7
-lang: en
+lang: en_FI
 lang_order: 3
 ref: accessories
 product: m2030s

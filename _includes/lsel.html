@@ -2,7 +2,7 @@
 {% assign pages=site.pages | where:"product", page.product | where:"ref", page.ref | sort: 'lang_order' %}
 {% for page in pages %}
   <li class="d-inline-block my-0{% unless forloop.last %} mr-2{% endunless %}">
-    <a href="{{ page.url }}">{{ page.lang }}</a>
+    <a href="{{ page.url }}">{{ page.lang | slice: 0, 2 }}</a>
   </li>
 {% endfor %}
 </ul>

@@ -2,7 +2,7 @@
 layout: default
 title: Kassering av apparaten
 nav_order: 8
-lang: sv
+lang: sv_FI
 lang_order: 2
 ref: weee
 product: m2030s

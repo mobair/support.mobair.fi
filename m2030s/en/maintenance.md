@@ -2,7 +2,7 @@
 layout: default
 title: Maintenance
 nav_order: 5
-lang: en
+lang: en_FI
 lang_order: 3
 ref: maintenance
 product: m2030s
