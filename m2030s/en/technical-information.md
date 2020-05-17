@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Technical information
+title-add: "– 2030S Owner's Manual "
 nav_order: 6
 lang: en_FI
 lang_order: 3

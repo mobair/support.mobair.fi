@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Laitteen käytöstä poisto ja hävittäminen
+title-add: "– 2030S Käyttöohjeet "
 nav_order: 8
 lang: fi_FI
 lang_order: 1

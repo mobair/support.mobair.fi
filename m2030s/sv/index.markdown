@@ -4,6 +4,7 @@
 
 layout: default
 title: Inledning
+title-add: "– 2030S Användarhandbok "
 nav_order: 1
 lang: sv_FI
 lang_order: 2

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Om
+title-add: "– 2030S Användarhandbok "
 nav_order: 9
 lang: sv_FI
 lang_order: 2

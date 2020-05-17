@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Suodattimet ja lisävarusteet
+title-add: "– 2030S Käyttöohjeet "
 nav_order: 7
 lang: fi_FI
 lang_order: 1

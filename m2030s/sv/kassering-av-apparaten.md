@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kassering av apparaten
+title-add: "– 2030S Användarhandbok "
 nav_order: 8
 lang: sv_FI
 lang_order: 2

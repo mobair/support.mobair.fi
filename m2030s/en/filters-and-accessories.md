@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Filters and accessories
+title-add: "– 2030S Owner's Manual "
 nav_order: 7
 lang: en_FI
 lang_order: 3

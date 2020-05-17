@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Installation
+title-add: "– 2030S Användarhandbok "
 nav_order: 3
 lang_order: 2
 lang: sv_FI

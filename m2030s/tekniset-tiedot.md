@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tekniset tiedot
+title-add: "– 2030S Käyttöohjeet "
 nav_order: 6
 lang: fi_FI
 lang_order: 1

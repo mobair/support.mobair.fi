@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Filter och tillbehör
+title-add: "– 2030S Användarhandbok "
 nav_order: 7
 lang: sv_FI
 lang_order: 2

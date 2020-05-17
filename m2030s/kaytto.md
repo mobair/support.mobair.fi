@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Käyttö
+title-add: "– 2030S Käyttöohjeet "
 nav_order: 4
 lang: fi_FI
 lang_order: 1

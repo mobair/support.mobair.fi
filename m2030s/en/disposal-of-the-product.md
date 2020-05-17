@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Disposal of the product
+title-add: "– 2030S Owner's Manual "
 nav_order: 8
 lang: en_FI
 lang_order: 3

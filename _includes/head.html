@@ -3,7 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
   {% if site.plugins.jekyll-seo == nil %}
-    <title>{{ page.title }} - {{ site.t[page.lang].title }}</title>
+    <title>{{ page.title }} {{ page.title-add }}– {{ site.t[page.lang].title }}</title>
 
     {% if page.description %}
       <meta name="Description" content="{{ page.description }}">

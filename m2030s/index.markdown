@@ -4,6 +4,7 @@
 
 layout: default
 title: Johdanto
+title-add: "– 2030S Käyttöohjeet "
 nav_order: 1
 lang: fi_FI
 lang_order: 1

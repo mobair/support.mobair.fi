@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Asennus
+title-add: "– 2030S Käyttöohjeet "
 nav_order: 3
 lang_order: 1
 lang: fi_FI
