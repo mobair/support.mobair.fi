@@ -12,7 +12,7 @@ product: m2030s
 # Safety information
 {: .no_toc }
 
-## Sisällysluettelo
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
