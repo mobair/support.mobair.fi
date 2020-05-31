@@ -54,6 +54,11 @@ t:
     title:   "Mobair Support"
     menu-off:  "Menu"
     menu-on:   "Hide"
+    
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+ga_tracking: UA-89185168-8
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
