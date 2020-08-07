@@ -13,13 +13,13 @@
   },"2": {
     "doc": "Användning",
     "title": "Användning",
-    "content": "För att ventilen kan uppvärma den utifrån kommande luften, skall ventilen vara ca 15 mm från väggen med hjälp av justeringsproppar. Då fläkten är påkopplad strömmar mellan ventilen och väggen in varm rumsluft för att värma upp den utifrån kommande luften. Anläggningen behövs inte avstängas, elkonsumtion endast 1,0 W. Om den medföljande ljuddämparen används, måste den placeras i det yttre luftröret bakom filtret. Om det behövs, kan ljuddämparens längd förkortas genom skärning. Om luftflödet begränsas särskilt genom att lägga till mindre del av röret, bör det säkerställas att vakuumet i utrymmet inte växer för högt. 1. Ventilens avstånd från väggen justeras med justeringsproppar, standardavståndet är 15 mm . 2. Uteluftsröret: Ø103 × 370 mm 3. Påsfilter installeras inuti uteluftsröret, spetsen på filtret ska peka utåt . 4. Ljuddämparen som ska installeras inuti uteluftsröret 5. Luftvolymbegränsande tillägg . 6. Fläktens fastsättning 7. Ytterväggsgalret fastsättning . I paketet ingående installationstillbehör . Fästskruven installeras lite snett uppåt, skruvhuvudet ca. 20 mm från väggen . Om den inströmmande luftströmmen möter ett hinder, t.ex. en gardinstång kan detta ge upphov till känsla av drag . ",
+    "content": "För att ventilen kan uppvärma den utifrån kommande luften, skall ventilen vara ca 15 mm från väggen med hjälp av justeringsproppar. Då fläkten är påkopplad strömmar mellan ventilen och väggen in varm rumsluft för att värma upp den utifrån kommande luften. Anläggningen behövs inte avstängas, elkonsumtion endast 1,0 W. Om den medföljande ljuddämparen används, måste den placeras i det yttre luftröret bakom filtret. Om det behövs, kan ljuddämparens längd förkortas genom skärning. Om luftflödet begränsas särskilt genom att lägga till mindre del av röret, bör det säkerställas att vakuumet i utrymmet inte växer för högt. 1. Ventilens avstånd från väggen justeras med justeringsproppar, standardavståndet är 15 mm . 2. Uteluftsröret: Ø103 × 370 mm 3. Påsfilter installeras inuti uteluftsröret, spetsen på filtret ska peka utåt . 4. Ljuddämparen som ska installeras inuti uteluftsröret 5. Luftvolymbegränsande tillägg . 6. Fläktens fastsättning 7. Ytterväggsgalret fastsättning . I paketet ingående installationstillbehör . Fästskruven installeras lite snett uppåt, skruvhuvudet ca. 20 mm från väggen . | | Om den inströmmande luftströmmen möter ett hinder, t.ex. en gardinstång kan detta ge upphov till känsla av drag . ",
     "url": "/m2030s/sv/anvandning.html",
     "relUrl": "/m2030s/sv/anvandning.html"
   },"3": {
     "doc": "Asennus",
     "title": "Asennus",
-    "content": ". Laite asennetaan makuuhuoneeseen tai muuhun kuivaan tilaan. Laite sijoitetaan ulkoseinälle huoneen yläosaan, laitteen yläreunan etäisyys katosta min. 200 mm. Sähköliitäntä pistorasiaan pistokemuuntajalla ja 1,3 m pitkällä virtajohdolla (7,5 m jatkojohto). Johdon voi sijoittaa koristelistan taakse koska käyttöjännite on 8,5 V DC. Ulkoseinään laitteen sijoituspaikan keskelle tehdään ∅110 mm reikä. Reikään asennetaan laitteen mukana tuleva ∅103 mm muoviputki, hiukan ulospäin viettäväksi. Putki tiivistetään seinärakenteeseen. Putkenpään tulee jäädä seinäpinnan tasoon. Ulkopuolelle asennetaan laitteen mukana tuleva ulkosäleikkö. Hyönteisverkko on vapaaehtoinen. Mikäli käytetään olemassa olevaa ulkoilma-aukkoa, tulee aukkoon sovittaa laitteen mukana tuleva ulkoilmaputki jotta suodatin sopii siihen. ",
+    "content": ". Laite asennetaan makuuhuoneeseen tai muuhun kuivaan tilaan. Laite sijoitetaan ulkoseinälle huoneen yläosaan, laitteen yläreunan etäisyys katosta min. 200 mm. Sähköliitäntä pistorasiaan pistokemuuntajalla ja 1,3 m pitkällä virtajohdolla (7,5 m jatkojohto). Johdon voi sijoittaa koristelistan taakse koska käyttöjännite on 8,5 V DC. Ulkoseinään laitteen sijoituspaikan keskelle tehdään ∅110 mm reikä. Reikään asennetaan laitteen mukana tuleva ∅103 mm muoviputki, hiukan ulospäin viettäväksi. Putki tiivistetään seinärakenteeseen. Putkenpään tulee jäädä seinäpinnan tasoon. Ulkopuolelle asennetaan laitteen mukana tuleva ulkosäleikkö. Hyönteisverkko on vapaaehtoinen. Mikäli käytetään olemassa olevaa ulkoilma-aukkoa, tulee aukkoon sovittaa laitteen mukana tuleva ulkoilmaputki jotta suodatin sopii siihen. | . Edellinen Seuraava | . ",
     "url": "/m2030s/asennus.html",
     "relUrl": "/m2030s/asennus.html"
   },"4": {
@@ -55,7 +55,7 @@
   },"9": {
     "doc": "Huolto",
     "title": "Huolto",
-    "content": ". | Ota virtajohto irti laitteesta. | Nosta laite pois seinältä. | Vaihda suodatin putken sisältä. Vaihto 1-2 kertaa vuodessa. | . ",
+    "content": ". | Ota virtajohto irti laitteesta. | Nosta laite pois seinältä. | Vaihda suodatin putken sisältä. Vaihto 1-2 kertaa vuodessa. | . | . Edellinen Seuraava | . ",
     "url": "/m2030s/huolto.html",
     "relUrl": "/m2030s/huolto.html"
   },"10": {
@@ -103,7 +103,7 @@
   },"17": {
     "doc": "Johdanto",
     "title": "Tunnistemerkintöjen sijainti",
-    "content": "Mallinumerotiedot, erä- tai sarjanumero ja jännitemerkintä sijaitsevat laitteen kyljessä tai pakkauksessa. ",
+    "content": "Mallinumerotiedot, erä- tai sarjanumero ja jännitemerkintä sijaitsevat laitteen kyljessä tai pakkauksessa. Seuraava | . ",
     "url": "/m2030s/#tunnistemerkint%C3%B6jen-sijainti",
     "relUrl": "/m2030s/#tunnistemerkintöjen-sijainti"
   },"18": {
@@ -151,13 +151,13 @@
   },"25": {
     "doc": "Käyttö",
     "title": "Käyttö",
-    "content": "Jotta laite voi lämmittää ulkoa tulevan ilman, tulee sen olla n. 15 mm irti seinästä takana olevien säätötappien avulla. Puhaltimen ollessa päällä venttiilin ja seinän välistä virtaa laitteen sisään lämmintä huoneilmaa lämmittämään ulkoa tulevaa ilmaa. Laite voi olla aina päällä, sähköteho on vain 1,0 W. Jos mukana tulevaa äänenvaimenninta käytetään, tulee se sijoittaa ulkoilmaputkeen viimeisenä suodattimen taakse. Tarpeen vaatiessa äänenvaimentimen pituutta voi leikkaamalla lyhentää. Jos ilmavirtaa rajoitetaan erityisesti lisäämällä pienempi osa putkeen, tulee varmistaa että alipaine tilassa ei kasva liian suureksi. 1. Säätötapeilla säädetään laitteen etäisyys seinästä, vakioasetus 15 mm . 2. Ulkoilmaputki: Ø103 × 370 mm 3. Suodatin asennetaan ulkoilmaputken sisälle, ohuempi kärki ulkoilmaa kohden . 4. Ulkoilmaputken sisälle asennettava äänenvaimennin 5. Ilmamäärää rajoittava lisäosa . 6. Laitteen kiinnitystarvikkeet 7. Ulkosäleikön kiinnitystarvikkeet . Pakkauksen mukana tulevat asennustarvikkeet . Kiinnitysruuvi asennetaan hiukan vinosti ylöspäin, kanta n. 20 mm irti seinästä . Mikäli puhallussuihkun edessä on este, esim. verholauta, saattaa esiintyä vedon tunnetta . ",
+    "content": "Jotta laite voi lämmittää ulkoa tulevan ilman, tulee sen olla n. 15 mm irti seinästä takana olevien säätötappien avulla. Puhaltimen ollessa päällä venttiilin ja seinän välistä virtaa laitteen sisään lämmintä huoneilmaa lämmittämään ulkoa tulevaa ilmaa. Laite voi olla aina päällä, sähköteho on vain 1,0 W. Jos mukana tulevaa äänenvaimenninta käytetään, tulee se sijoittaa ulkoilmaputkeen viimeisenä suodattimen taakse. Tarpeen vaatiessa äänenvaimentimen pituutta voi leikkaamalla lyhentää. Jos ilmavirtaa rajoitetaan erityisesti lisäämällä pienempi osa putkeen, tulee varmistaa että alipaine tilassa ei kasva liian suureksi. 1. Säätötapeilla säädetään laitteen etäisyys seinästä, vakioasetus 15 mm . 2. Ulkoilmaputki: Ø103 × 370 mm 3. Suodatin asennetaan ulkoilmaputken sisälle, ohuempi kärki ulkoilmaa kohden . 4. Ulkoilmaputken sisälle asennettava äänenvaimennin 5. Ilmamäärää rajoittava lisäosa . 6. Laitteen kiinnitystarvikkeet 7. Ulkosäleikön kiinnitystarvikkeet . Pakkauksen mukana tulevat asennustarvikkeet . Kiinnitysruuvi asennetaan hiukan vinosti ylöspäin, kanta n. 20 mm irti seinästä . | | Mikäli puhallussuihkun edessä on este, esim. verholauta, saattaa esiintyä vedon tunnetta . | . Edellinen Seuraava | . ",
     "url": "/m2030s/kaytto.html",
     "relUrl": "/m2030s/kaytto.html"
   },"26": {
     "doc": "Laitteen käytöstä poisto ja hävittäminen",
     "title": "Käytöstä poistettujen sähkö- ja elektroniikkalaitteiden hävittäminen (koskee Euroopan yhteisön ja muiden Euroopan maiden jätehuoltoa)",
-    "content": ". Tämä laitteeseen tai sen pakkaukseen merkitty symboli tarkoittaa, että laitetta ei saa käsitellä kotitalousjätteenä. Sen sijaan laite on toimitettava sähkö ja elektroniikkalaitteiden kierrätyksestä huolehtivaan keräys- ja kierrätyspisteeseen. Varmistamalla, että tämä laite hävitetään asianmukaisesti, voit auttaa estämään mahdollista ympäristö- ja terveyshaittoja, joita muuten voi aiheutua laitteen epäasianmukaisesta käsittelystä. Materiaalien kierrätys säästää luonnonvaroja. Lisätietoja laitteen käsittelystä, talteenotosta ja kierrätyksestä on saatavilla paikallisilta ympäristöviranomaisilta, jätehuoltokeskuksesta tai liikkeestä, josta laite on ostettu. ",
+    "content": ". Tämä laitteeseen tai sen pakkaukseen merkitty symboli tarkoittaa, että laitetta ei saa käsitellä kotitalousjätteenä. Sen sijaan laite on toimitettava sähkö ja elektroniikkalaitteiden kierrätyksestä huolehtivaan keräys- ja kierrätyspisteeseen. Varmistamalla, että tämä laite hävitetään asianmukaisesti, voit auttaa estämään mahdollista ympäristö- ja terveyshaittoja, joita muuten voi aiheutua laitteen epäasianmukaisesta käsittelystä. Materiaalien kierrätys säästää luonnonvaroja. Lisätietoja laitteen käsittelystä, talteenotosta ja kierrätyksestä on saatavilla paikallisilta ympäristöviranomaisilta, jätehuoltokeskuksesta tai liikkeestä, josta laite on ostettu. | . Edellinen Seuraava | . ",
     "url": "/m2030s/laitteen-kaytosta-poisto-ja-havittaminen.html#k%C3%A4yt%C3%B6st%C3%A4-poistettujen-s%C3%A4hk%C3%B6--ja-elektroniikkalaitteiden-h%C3%A4vitt%C3%A4minen-koskee-euroopan-yhteis%C3%B6n-ja-muiden-euroopan-maiden-j%C3%A4tehuoltoa",
     "relUrl": "/m2030s/laitteen-kaytosta-poisto-ja-havittaminen.html#käytöstä-poistettujen-sähkö--ja-elektroniikkalaitteiden-hävittäminen-koskee-euroopan-yhteisön-ja-muiden-euroopan-maiden-jätehuoltoa"
   },"27": {
@@ -169,7 +169,7 @@
   },"28": {
     "doc": "Lisätietoja",
     "title": "Lisätietoja",
-    "content": "Alkuperäiset ohjeet . K4GB69M7V2 . ",
+    "content": "Alkuperäiset ohjeet . K4GB69M7V2 . | . Edellinen . ",
     "url": "/m2030s/lisatietoja.html",
     "relUrl": "/m2030s/lisatietoja.html"
   },"29": {
@@ -187,7 +187,7 @@
   },"31": {
     "doc": "Operation",
     "title": "Operation",
-    "content": "For optimal airflow and proper mixing of the supply air with the warm indoor air, there should be a ~15 mm gap between the unit and the wall. When the fan is on, existing warm air inside of the room flows through the gap into the unit and upwards towards the ceiling to warm up the incoming outdoor air. The energy consumption of the fan is only 1,0 W, so it can always be turned on. If the enclosed silencer is used, it should be installed inside of the air duct for last after the filter. The length of the silencer can be shortened by cutting. If the additional airflow limiter is used, please make sure the negative air pressure inside of the room does not become excessive. 1. The distance from the wall can be adjusted with the pins on the back of the unit, default setting is 15 mm . 2. Air duct: Ø103 × 370 mm 3. The filter is installed inside of the air duct, and the tip of the filter should point outwards . 4. The silencer is installed inside of the air duct 5. Additional airflow limiter which can be fitted inside of the silencer . 6. Equipment for unit installation 7. Screws for securing the outdoor louvre . All the necessary equipment for installation is included in the package . Mounting screw is installed in an upward angle, distance between the base of the screw and the wall should be approx. 20 mm . An obstacle disturbing the airflow upwards (e.g. a pelmet in front of the unit), can produce a feeling of draught . ",
+    "content": "For optimal airflow and proper mixing of the supply air with the warm indoor air, there should be a ~15 mm gap between the unit and the wall. When the fan is on, existing warm air inside of the room flows through the gap into the unit and upwards towards the ceiling to warm up the incoming outdoor air. The energy consumption of the fan is only 1,0 W, so it can always be turned on. If the enclosed silencer is used, it should be installed inside of the air duct for last after the filter. The length of the silencer can be shortened by cutting. If the additional airflow limiter is used, please make sure the negative air pressure inside of the room does not become excessive. 1. The distance from the wall can be adjusted with the pins on the back of the unit, default setting is 15 mm . 2. Air duct: Ø103 × 370 mm 3. The filter is installed inside of the air duct, and the tip of the filter should point outwards . 4. The silencer is installed inside of the air duct 5. Additional airflow limiter which can be fitted inside of the silencer . 6. Equipment for unit installation 7. Screws for securing the outdoor louvre . All the necessary equipment for installation is included in the package . Mounting screw is installed in an upward angle, distance between the base of the screw and the wall should be approx. 20 mm . | | An obstacle disturbing the airflow upwards (e.g. a pelmet in front of the unit), can produce a feeling of draught . ",
     "url": "/m2030s/en/operation.html",
     "relUrl": "/m2030s/en/operation.html"
   },"32": {
@@ -313,7 +313,7 @@
   },"52": {
     "doc": "Suodattimet ja lisävarusteet",
     "title": "Suodattimet ja lisävarusteet",
-    "content": "| Nimi | Tuotekoodi | . | Pussisuodatin (M5 / ePM10 60%) | S2040 | . | Äänenvaimennin | AV2000 | . Mobair korvausilmalaitteet on suunniteltu toimimaan alkuperäisten, virtausominaisuuksiltaan testattujen Mobair suodattimien kanssa yhteensopiviksi. Alkuperäisten Mobair vaihtosuodattimien jälleenmyyjien yhteystiedot: mobair.fi/jalleenmyyjat . ",
+    "content": "| Nimi | Tuotekoodi | . | Pussisuodatin (M5 / ePM10 60%) | S2040 | . | Äänenvaimennin | AV2000 | . Mobair korvausilmalaitteet on suunniteltu toimimaan alkuperäisten, virtausominaisuuksiltaan testattujen Mobair suodattimien kanssa yhteensopiviksi. Alkuperäisten Mobair vaihtosuodattimien jälleenmyyjien yhteystiedot: mobair.fi/jalleenmyyjat . | . Edellinen Seuraava | . ",
     "url": "/m2030s/suodattimet-ja-lisavarusteet.html",
     "relUrl": "/m2030s/suodattimet-ja-lisavarusteet.html"
   },"53": {
@@ -349,7 +349,7 @@
   },"58": {
     "doc": "Tekniset tiedot",
     "title": "Mitat",
-    "content": ". ",
+    "content": ". | . Edellinen Seuraava | . ",
     "url": "/m2030s/tekniset-tiedot.html#mitat",
     "relUrl": "/m2030s/tekniset-tiedot.html#mitat"
   },"59": {
@@ -427,7 +427,7 @@
   },"71": {
     "doc": "Turvallisuus-ohjeet",
     "title": "Toimintaohjeet ongelmatilanteissa",
-    "content": "Katkaise virta laitteesta ja irrota pistoke pistorasiasta välittömästi, jos jokin alla mainituista ongelmatilanteista esiintyy. Toimita laite tarkastettavaksi valtuutettuun huoltoon jälleenmyyjän tai Mobairin huoltokeskuksen kautta. Ongelmatilanteet: . | Verkkovirtajohto on vaurioitunut. | Pistoke ei ole sopiva. | Laite on vaurioitunut putoamisen, iskun tai törmäyksen vuoksi. | Laitteen sisään on päässyt nestettä tai esineitä. | . ",
+    "content": "Katkaise virta laitteesta ja irrota pistoke pistorasiasta välittömästi, jos jokin alla mainituista ongelmatilanteista esiintyy. Toimita laite tarkastettavaksi valtuutettuun huoltoon jälleenmyyjän tai Mobairin huoltokeskuksen kautta. Ongelmatilanteet: . | Verkkovirtajohto on vaurioitunut. | Pistoke ei ole sopiva. | Laite on vaurioitunut putoamisen, iskun tai törmäyksen vuoksi. | Laitteen sisään on päässyt nestettä tai esineitä. | . | . Edellinen Seuraava | . ",
     "url": "/m2030s/turvallisuus-ohjeet.html#toimintaohjeet-ongelmatilanteissa",
     "relUrl": "/m2030s/turvallisuus-ohjeet.html#toimintaohjeet-ongelmatilanteissa"
   },"72": {
